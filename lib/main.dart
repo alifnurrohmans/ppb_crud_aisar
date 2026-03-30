@@ -1,4 +1,4 @@
-import 'package:crud_aisar/models/note_database.dart';
+import 'package:crud_aisar/controllers/note_database.dart';
 import 'package:crud_aisar/pages/notes_page.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter/material.dart';
